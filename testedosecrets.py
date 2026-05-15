@@ -1,2 +1,2 @@
 import streamlit as st
-oi = st.write('oi1)
+oi = st.write('oi')
